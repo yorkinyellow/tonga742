@@ -1,0 +1,14 @@
+{
+  "name": "tonga742",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "bet365 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ bet365 เว็บพนันที่ดีที่สุดของคนไทย บริการเกมสล็อต บาคาร่า ครบ",
+  "keywords": [
+    "bet365 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ bet365 เว็บพนันที่ดีที่สุดของคนไทย บริการเกมสล็อต บาคาร่า ครบ"
+  ],
+  "repository": "https://github.com/yorkinyellow/tonga742",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
